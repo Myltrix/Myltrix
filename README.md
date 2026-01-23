@@ -24,7 +24,7 @@ I'm a passionate student currently exploring the world of web development and pr
 
 ## 📊 GitHub Stats
 
-<img width="612" height="479" alt="image" src="https://i.pinimg.com/originals/6d/f7/1a/6df71adb86f9cfc068b6f1d5942c9426.gif" />
+<img width="612" height="479" alt="image" src="https://i.pinimg.com/originals/a9/64/73/a9647361cecd936014fdaec0366ee304.gif" />
 
 ## 📫 Connect with Me
 
