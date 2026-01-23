@@ -24,7 +24,7 @@ I'm a passionate student currently exploring the world of web development and pr
 
 ## 📊 GitHub Stats
 
-<img width="612" height="479" alt="image" src="https://i.pinimg.com/originals/93/17/4a/93174a1ae25d09e30ef77090f3a814b8.gif" />
+<img width="612" height="479" alt="image" src="https://i.pinimg.com/originals/6d/f7/1a/6df71adb86f9cfc068b6f1d5942c9426.gif" />
 
 ## 📫 Connect with Me
 
@@ -33,8 +33,3 @@ I'm a passionate student currently exploring the world of web development and pr
 - Love troubleshooting and solving problems
 - Currently building my portfolio from scratch
 
----
-
-⭐ *"The expert in anything was once a beginner."* – Helen Hayes
-
-*This README is a work in progress, just like my coding skills!*
