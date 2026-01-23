@@ -22,17 +22,9 @@ I'm a passionate student currently exploring the world of web development and pr
 - Creating personal projects to apply my knowledge
 - Balancing studies with hands-on coding practice
 
-## 🎯 Goals for 2024
-
-- [ ] Master front-end basics (HTML/CSS/JS)
-- [ ] Build 5+ interactive web projects
-- [ ] Learn Python fundamentals thoroughly
-- [ ] Create a Django web application
-- [ ] Contribute to open-source projects
-
 ## 📊 GitHub Stats
 
-<img width="612" height="479" alt="image" src="https://github.com/user-attachments/assets/8e163626-bae6-45db-ae55-8eddab0e8d85" />
+<img width="612" height="479" alt="image" src="https://i.pinimg.com/originals/93/17/4a/93174a1ae25d09e30ef77090f3a814b8.gif" />
 
 ## 📫 Connect with Me
 
