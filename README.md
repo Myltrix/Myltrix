@@ -37,5 +37,5 @@
 ## Статистика GitHub
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5e/47/8a/5e478a0f48d4798c7df3a12a23988e4b.gif" width="612" height="479" alt="Аниме статистика" />
+  <img src="https://preview.redd.it/ryomen-sukuna-jujutsu-kaisen-vs-ilulu-maid-dragon-who-wins-v0-hpsdkl5urb9e1.gif?width=498&auto=webp&s=3bafefbfc74891308cbe7dbd35e14f6b1203cb7f" width="612" height="479" alt="Аниме статистика" />
 </div>
