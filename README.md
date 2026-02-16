@@ -33,6 +33,8 @@ Right now I'm building strong foundations in front-end technologies while gradua
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://preview.redd.it/ryomen-sukuna-jujutsu-kaisen-vs-ilulu-maid-dragon-who-wins-v0-hpsdkl5urb9e1.gif?width=498&auto=webp&s=3bafefbfc74891308cbe7dbd35e14f6b1203cb7f" width="612" alt="Anime Stats" />
-<img src="https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif" width="520" style="margin-top: 20px;" alt="Extra Stats GIF" /> 
+  <img src="https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif" width="300" alt="gif1" style="margin-right: 10px;">
+  <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="300" alt="gif2" style="margin-right: 10px;">
+  <img src="https://giffiles.alphacoders.com/221/221259.gif" width="300" alt="gif3" style="margin-right: 10px;">
 </div>
+
