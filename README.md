@@ -27,6 +27,6 @@ Right now I'm building strong foundations in front-end technologies while gradua
 <div align="center">
   <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="260" height="160" alt="gif1" style="margin-right: 10px; object-fit: cover;">
   <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif" width="260" height="160" alt="gif2" style="margin-right: 10px; object-fit: cover;">
-  <img src="https://giffiles.alphacoders.com/221/221259.gif" width="260" height="160" alt="gif3" style="object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/01/90/e0/0190e070e52276f1c40712f2137c8e07.gif" width="260" height="160" alt="gif3" style="object-fit: cover;">
 </div>
 
