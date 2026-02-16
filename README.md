@@ -3,8 +3,6 @@
 I'm a student exploring the world of **web development** and **programming**.
 Right now I'm building strong foundations in front-end technologies while gradually moving into back-end development.
 
----
-
 ## 🚀 Technologies & Tools
 
 <div style="margin-top: 10px;">
@@ -15,10 +13,6 @@ Right now I'm building strong foundations in front-end technologies while gradua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="56" height="56" style="vertical-align: middle;">
 </div>
 
-**Python** • **HTML / CSS / JS** • **Web Development** • **Django**
-
----
-
 ## 🎯 Current Focus
 
 * Creating responsive and modern websites
@@ -28,13 +22,10 @@ Right now I'm building strong foundations in front-end technologies while gradua
 * Building personal projects to develop practical experience
 * Balancing studies with consistent coding practice
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a3/f2/0f/a3f20f2ee16cee43a9b85d40fc0a45f9.gif" width="300" alt="gif1" style="margin-right: 10px;">
+  <img src="https://preview.redd.it/anime-gif-collection-v0-t64rltdqx90e1.gif?width=540&auto=webp&s=9fe6e337c86b1b81d54bad32e473b10d29bd54ff" width="300" alt="gif1" style="margin-right: 10px;">
   <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="300" alt="gif2" style="margin-right: 10px;">
   <img src="https://giffiles.alphacoders.com/221/221259.gif" width="300" alt="gif3" style="margin-right: 10px;">
 </div>
-
