@@ -25,7 +25,8 @@ Right now I'm building strong foundations in front-end technologies while gradua
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://preview.redd.it/anime-gif-collection-v0-t64rltdqx90e1.gif?width=540&auto=webp&s=9fe6e337c86b1b81d54bad32e473b10d29bd54ff" width="300" alt="gif1" style="margin-right: 10px;">
-  <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="300" alt="gif2" style="margin-right: 10px;">
-  <img src="https://giffiles.alphacoders.com/221/221259.gif" width="300" alt="gif3" style="margin-right: 10px;">
+  <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="260" height="160" alt="gif1" style="margin-right: 10px; object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif" width="260" height="160" alt="gif2" style="margin-right: 10px; object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/9b/0d/b5/9b0db52db3cf401f18b77d04184604f3.gif" width="260" height="160" alt="gif3" style="object-fit: cover;">
 </div>
+
