@@ -10,7 +10,6 @@ Right now I'm building strong foundations in front-end technologies while gradua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="56" height="56" style="margin-right: 15px; vertical-align: middle;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="56" height="56" style="margin-right: 15px; vertical-align: middle;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="56" height="56" style="margin-right: 15px; vertical-align: middle;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="56" height="56" style="vertical-align: middle;">
 </div>
 
 ## 🎯 Current Focus
