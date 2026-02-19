@@ -1,9 +1,9 @@
-# Hi, I'm **Myltrix** 👋
+# Hi, I'm **Myltrix** 
 
 I'm a student exploring the world of **web development** and **programming**.
 Right now I'm building strong foundations in front-end technologies while gradually moving into back-end development.
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <div style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="56" height="56" style="margin-right: 15px; vertical-align: middle;">
@@ -12,7 +12,7 @@ Right now I'm building strong foundations in front-end technologies while gradua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="56" height="56" style="margin-right: 15px; vertical-align: middle;">
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 * Creating responsive and modern websites
 * Expanding my understanding of JavaScript
@@ -21,7 +21,7 @@ Right now I'm building strong foundations in front-end technologies while gradua
 * Building personal projects to develop practical experience
 * Balancing studies with consistent coding practice
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="260" height="160" alt="gif1" style="margin-right: 10px; object-fit: cover;">
