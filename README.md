@@ -1,6 +1,6 @@
-# Hi, I'm **Myltrix** 
+## Hi, I'm Myltrix
 
-I'm a student exploring the world of **web development** and **programming**.
+I'm a student exploring the world of web development and programming.
 Right now I'm building strong foundations in front-end technologies while gradually moving into back-end development.
 
 ## Technologies & Tools
