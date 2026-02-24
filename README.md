@@ -21,4 +21,4 @@ Right now I'm building strong foundations in front-end technologies while gradua
 
 ## GitHub Stats
 
-<img src="https://animesher.com/orig/1/178/1784/17843/animesher.com_bleach-senbonzakura-kuchiki-byakuya-1784348.gif" width="400"/>
+<img src="https://i.pinimg.com/originals/9e/29/af/9e29af567bac3b5b2d8aa367af3b4539.gif" width="400"/>
