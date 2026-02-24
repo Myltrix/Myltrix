@@ -21,4 +21,4 @@ Right now I'm building strong foundations in front-end technologies while gradua
 
 ## GitHub Stats
 
-<img src="https://i.pinimg.com/originals/9e/29/af/9e29af567bac3b5b2d8aa367af3b4539.gif" width="400"/>
+<img src="https://media.tenor.com/Ppg0-34RhN4AAAAM/sawunn.gif" width="100%"/>
