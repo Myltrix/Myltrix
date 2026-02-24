@@ -21,4 +21,4 @@ Right now I'm building strong foundations in front-end technologies while gradua
 
 ## GitHub Stats
 
-<img src="https://media.tenor.com/Ppg0-34RhN4AAAAM/sawunn.gif" width="100%"/>
+<img src="https://64.media.tumblr.com/3b6461372a8b9696c5573f6fb5cdab66/tumblr_omyty2MSFK1w8popto1_500.gif" width="100%"/>
