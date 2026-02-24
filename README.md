@@ -18,3 +18,7 @@ Right now I'm building strong foundations in front-end technologies while gradua
 * Exploring the Django ecosystem
 * Building personal projects to develop practical experience
 * Balancing studies with consistent coding practice
+
+## GitHub Stats
+
+<img src="https://animesher.com/orig/1/178/1784/17843/animesher.com_bleach-senbonzakura-kuchiki-byakuya-1784348.gif" width="400"/>
